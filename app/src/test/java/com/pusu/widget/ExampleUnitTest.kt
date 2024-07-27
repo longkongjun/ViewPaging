@@ -1,4 +1,4 @@
-package com.pusu.viewpaging
+package com.pusu.widget
 
 import org.junit.Test
 
